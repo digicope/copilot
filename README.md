@@ -13,10 +13,7 @@
 <br>
 <br>
 
-### ChatGPT 실행 링크 :  https://openai.com/blog/chatgpt
-<br>
-
-### OpenAI platform  : https://platform.openai.com/docs/introduction
+### ChatGPT 실행 링크 :  https://chatgpt.com/
 <br>
 
 ### ChatGPT 회원 가입 방법 :  https://njob23.tistory.com/59
