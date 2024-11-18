@@ -13,29 +13,29 @@
 <br>
 <br>
 
-### Microsoft Azure AI 기본 사항: 생성형 AI
+#### Microsoft Azure AI 기본 사항: 생성형 AI
 https://learn.microsoft.com/ko-kr/training/paths/introduction-generative-ai/
 <br>
 
-### Microsoft Azure AI 기본 사항: Copilot
+#### Microsoft Azure AI 기본 사항: Copilot
 https://learn.microsoft.com/ko-kr/training/modules/fundamentals-generative-ai/5-copilots?ns-enrollment-type=learningpath&ns-enrollment-id=learn.intro-generative-ai
 <br>
 <br>
 
 
-### ChatGPT 실행 링크 :  
+#### ChatGPT 실행 링크 :  
 https://chatgpt.com/
 <br>
 
-### ChatGPT 회원 가입 방법 :  
+#### ChatGPT 회원 가입 방법 :  
 https://njob23.tistory.com/59
 <br>
 
-### ChatGPT 국내 사용자 커뮤니티 :  
+#### ChatGPT 국내 사용자 커뮤니티 :  
 https://www.gpters.org/home
 <br>
 
-### ChatGPT 자료 :  
+#### ChatGPT 자료 :  
 https://docs.google.com/presentation/d/1lU-1mxLNbtIXRkAMEpBR9ZlLFfWY00ZOccaEarzKgMo/edit
 <br>
 
