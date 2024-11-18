@@ -20,6 +20,8 @@ https://learn.microsoft.com/ko-kr/training/paths/introduction-generative-ai/
 ### Microsoft Azure AI 기본 사항: Copilot
 https://learn.microsoft.com/ko-kr/training/modules/fundamentals-generative-ai/5-copilots?ns-enrollment-type=learningpath&ns-enrollment-id=learn.intro-generative-ai
 <br>
+<br>
+
 
 ### ChatGPT 실행 링크 :  
 https://chatgpt.com/
